@@ -1,4 +1,4 @@
-import { Trade, TradeType } from '@lychees/uniscam-sdk'
+import { Trade, TradeType } from '@zhiyuan2007/uniscam-sdk'
 import React, { useContext, useMemo, useState } from 'react'
 import { Repeat } from 'react-feather'
 import { Text } from 'rebass'

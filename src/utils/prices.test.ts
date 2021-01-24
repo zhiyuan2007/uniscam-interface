@@ -1,4 +1,4 @@
-import { ChainId, JSBI, Pair, Route, Token, TokenAmount, Trade, TradeType } from '@lychees/uniscam-sdk'
+import { ChainId, JSBI, Pair, Route, Token, TokenAmount, Trade, TradeType } from '@zhiyuan2007/uniscam-sdk'
 import { computeTradePriceBreakdown } from './prices'
 
 describe('prices', () => {

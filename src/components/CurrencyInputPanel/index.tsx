@@ -1,4 +1,4 @@
-import { Currency, ETHER, Pair } from '@lychees/uniscam-sdk'
+import { Currency, ETHER, Pair } from '@zhiyuan2007/uniscam-sdk'
 import React, { useState, useCallback } from 'react'
 import styled from 'styled-components'
 import { darken } from 'polished'

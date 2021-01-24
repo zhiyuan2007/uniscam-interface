@@ -1,5 +1,5 @@
 /* eslint-disable @typescript-eslint/no-non-null-assertion */
-import { currencyEquals, Trade } from '@lychees/uniscam-sdk'
+import { currencyEquals, Trade } from '@zhiyuan2007/uniscam-sdk'
 import React, { useCallback, useMemo } from 'react'
 import { useTranslation } from 'react-i18next'
 import { useActiveWeb3React } from '../../hooks'

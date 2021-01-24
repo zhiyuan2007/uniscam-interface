@@ -1,5 +1,5 @@
 import { isAddress } from '../../utils'
-import { Token } from '@lychees/uniscam-sdk'
+import { Token } from '@zhiyuan2007/uniscam-sdk'
 
 export function filterTokens(tokens: Token[], search: string): Token[] {
   if (search.length === 0) return tokens

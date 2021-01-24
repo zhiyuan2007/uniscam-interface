@@ -1,6 +1,6 @@
 import React, { useContext } from 'react'
 import { Link, RouteComponentProps, withRouter } from 'react-router-dom'
-import { Token, TokenAmount, WETH } from '@lychees/uniscam-sdk'
+import { Token, TokenAmount, WETH } from '@zhiyuan2007/uniscam-sdk'
 import { useTranslation } from 'react-i18next'
 import { Text } from 'rebass'
 import { AutoColumn } from '../Column'

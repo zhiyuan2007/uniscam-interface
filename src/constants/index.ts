@@ -1,10 +1,10 @@
 /* eslint-disable @typescript-eslint/no-non-null-assertion */
-import { ChainId, JSBI, Percent, Token, WETH } from '@lychees/uniscam-sdk'
+import { ChainId, JSBI, Percent, Token, WETH } from '@zhiyuan2007/uniscam-sdk'
 import { AbstractConnector } from '@web3-react/abstract-connector'
 
 import { fortmatic, injected, portis, walletconnect, walletlink } from '../connectors'
 
-export const ROUTER_ADDRESS = '0x039B5818e51dfEC86c1D56A4668787AF0Ed1c068'
+export const ROUTER_ADDRESS = '0xe7ce3590da322c32c48af6edb81c324a895431c7'
 
 export const ZERO_ADDRESS = '0x0000000000000000000000000000000000000000'
 
@@ -69,7 +69,7 @@ export const T_USDT = new Token(
 // HECO
 export const H_T_DAI = new Token(
   ChainId.HECO_TESTNET,
-  '0xde76ccae3413c7af312251e99803b1433d3187f4',
+  '0xbeae9dc4dd5ac6214a08d24ab4aca926f41e9a67',
   18,
   'DAI',
   'Dai Token'

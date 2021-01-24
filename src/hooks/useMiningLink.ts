@@ -1,4 +1,4 @@
-import { ChainId } from '@lychees/uniscam-sdk'
+import { ChainId } from '@zhiyuan2007/uniscam-sdk'
 import useNetworkType from './useNetworkType'
 
 export const useMiningLink = (chainId?: ChainId): string => {

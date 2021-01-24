@@ -1,5 +1,5 @@
 import { BLOCKED_PRICE_IMPACT_NON_EXPERT } from '../constants'
-import { ChainId, CurrencyAmount, Fraction, JSBI, Percent, TokenAmount, Trade } from '@lychees/uniscam-sdk'
+import { ChainId, CurrencyAmount, Fraction, JSBI, Percent, TokenAmount, Trade } from '@zhiyuan2007/uniscam-sdk'
 import { ALLOWED_PRICE_IMPACT_HIGH, ALLOWED_PRICE_IMPACT_LOW, ALLOWED_PRICE_IMPACT_MEDIUM } from '../constants'
 import { Field } from '../state/swap/actions'
 import { basisPointsToPercent } from './index'

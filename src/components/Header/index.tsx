@@ -1,5 +1,5 @@
 /* eslint-disable @typescript-eslint/no-non-null-assertion */
-import { ChainId, TokenAmount, ETHER } from '@lychees/uniscam-sdk'
+import { ChainId, TokenAmount, ETHER } from '@zhiyuan2007/uniscam-sdk'
 import React, { useState } from 'react'
 import { Text } from 'rebass'
 import { NavLink } from 'react-router-dom'

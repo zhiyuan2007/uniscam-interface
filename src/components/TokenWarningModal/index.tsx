@@ -1,4 +1,4 @@
-import { Token } from '@lychees/uniscam-sdk'
+import { Token } from '@zhiyuan2007/uniscam-sdk'
 import { transparentize } from 'polished'
 import React, { useCallback, useMemo, useState } from 'react'
 import styled from 'styled-components'

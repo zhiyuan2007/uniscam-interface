@@ -1,4 +1,4 @@
-import { ChainId } from '@lychees/uniscam-sdk'
+import { ChainId } from '@zhiyuan2007/uniscam-sdk'
 import React, { useContext } from 'react'
 import styled, { ThemeContext } from 'styled-components'
 import { useTranslation } from 'react-i18next'

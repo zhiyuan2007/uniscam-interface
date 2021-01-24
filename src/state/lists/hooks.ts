@@ -1,4 +1,4 @@
-import { ChainId, Token } from '@lychees/uniscam-sdk'
+import { ChainId, Token } from '@zhiyuan2007/uniscam-sdk'
 import { Tags, TokenInfo, TokenList } from '@uniswap/token-lists'
 import { useMemo } from 'react'
 import { useSelector } from 'react-redux'

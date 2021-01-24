@@ -1,4 +1,4 @@
-import { JSBI, Pair, Percent } from '@lychees/uniscam-sdk'
+import { JSBI, Pair, Percent } from '@zhiyuan2007/uniscam-sdk'
 import { darken } from 'polished'
 import React, { useState } from 'react'
 import { ChevronDown, ChevronUp } from 'react-feather'

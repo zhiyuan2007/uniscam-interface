@@ -1,4 +1,4 @@
-import { Trade } from '@lychees/uniscam-sdk'
+import { Trade } from '@zhiyuan2007/uniscam-sdk'
 import React, { Fragment, memo, useContext } from 'react'
 import { ChevronRight } from 'react-feather'
 import { Flex } from 'rebass'

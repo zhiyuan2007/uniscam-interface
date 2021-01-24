@@ -19,7 +19,7 @@ import { isAddress } from 'ethers/lib/utils'
 import Confetti from '../Confetti'
 import { CardNoise, CardBGImage, CardBGImageSmaller } from '../earn/styled'
 import { useIsTransactionPending } from '../../state/transactions/hooks'
-import { TokenAmount } from '@lychees/uniscam-sdk'
+import { TokenAmount } from '@zhiyuan2007/uniscam-sdk'
 import { getScanLink, getScanName, shortenAddress } from '../../utils'
 
 const ContentWrapper = styled(AutoColumn)`

@@ -1,4 +1,4 @@
-import { ChainId } from '@lychees/uniscam-sdk'
+import { ChainId } from '@zhiyuan2007/uniscam-sdk'
 import { createStore, Store } from 'redux'
 import { addTransaction, checkedTransaction, clearAllTransactions, finalizeTransaction } from './actions'
 import reducer, { initialState, TransactionState } from './reducer'

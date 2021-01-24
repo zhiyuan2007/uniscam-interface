@@ -1,4 +1,4 @@
-import { JSBI, Token, TokenAmount } from '@lychees/uniscam-sdk'
+import { JSBI, Token, TokenAmount } from '@zhiyuan2007/uniscam-sdk'
 import { BigNumber } from 'ethers'
 import { STAKING_GENESIS } from '../state/stake/hooks'
 

@@ -1,4 +1,4 @@
-import { TokenAmount } from '@lychees/uniscam-sdk'
+import { TokenAmount } from '@zhiyuan2007/uniscam-sdk'
 import React, { useEffect } from 'react'
 import { useTranslation } from 'react-i18next'
 import { X } from 'react-feather'

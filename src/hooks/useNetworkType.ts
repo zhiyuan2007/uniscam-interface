@@ -1,4 +1,4 @@
-import { ChainId } from '@lychees/uniscam-sdk'
+import { ChainId } from '@zhiyuan2007/uniscam-sdk'
 
 export const useNetworkType = (chainId?: ChainId): 'ETH' | 'BSC' | null => {
   const ethIds = [ChainId.MAINNET, ChainId.ROPSTEN, ChainId.RINKEBY, ChainId.GÖRLI, ChainId.KOVAN]

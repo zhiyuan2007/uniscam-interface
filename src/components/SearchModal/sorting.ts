@@ -1,4 +1,4 @@
-import { Token, TokenAmount } from '@lychees/uniscam-sdk'
+import { Token, TokenAmount } from '@zhiyuan2007/uniscam-sdk'
 import { useMemo } from 'react'
 import { useAllTokenBalances } from '../../state/wallet/hooks'
 

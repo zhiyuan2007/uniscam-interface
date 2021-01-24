@@ -7,7 +7,7 @@ import {
   Trade,
   TradeOptionsDeadline,
   TradeType
-} from '@lychees/uniscam-sdk'
+} from '@zhiyuan2007/uniscam-sdk'
 import { getTradeVersion } from '../data/V1'
 import { Version } from '../hooks/useToggledVersion'
 

@@ -1,4 +1,4 @@
-import { CurrencyAmount, ETHER, JSBI } from '@lychees/uniscam-sdk'
+import { CurrencyAmount, ETHER, JSBI } from '@zhiyuan2007/uniscam-sdk'
 import { MIN_ETH } from '../constants'
 
 /**

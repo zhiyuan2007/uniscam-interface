@@ -1,4 +1,4 @@
-import { Currency, CurrencyAmount, Pair, Token, Trade } from '@lychees/uniscam-sdk'
+import { Currency, CurrencyAmount, Pair, Token, Trade } from '@zhiyuan2007/uniscam-sdk'
 import flatMap from 'lodash.flatmap'
 import { useMemo } from 'react'
 

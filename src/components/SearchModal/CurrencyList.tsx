@@ -1,4 +1,4 @@
-import { Currency, CurrencyAmount, currencyEquals, ETHER, Token } from '@lychees/uniscam-sdk'
+import { Currency, CurrencyAmount, currencyEquals, ETHER, Token } from '@zhiyuan2007/uniscam-sdk'
 import React, { CSSProperties, MutableRefObject, useCallback, useMemo } from 'react'
 import { FixedSizeList } from 'react-window'
 import { Text } from 'rebass'

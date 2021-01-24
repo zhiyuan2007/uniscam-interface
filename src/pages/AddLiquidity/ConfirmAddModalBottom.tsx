@@ -1,5 +1,5 @@
 /* eslint-disable @typescript-eslint/no-non-null-assertion */
-import { Currency, CurrencyAmount, Fraction, Percent } from '@lychees/uniscam-sdk'
+import { Currency, CurrencyAmount, Fraction, Percent } from '@zhiyuan2007/uniscam-sdk'
 import React, { useContext } from 'react'
 import { Text } from 'rebass'
 import { useTranslation } from 'react-i18next'

@@ -1,4 +1,4 @@
-import { JSBI } from '@lychees/uniscam-sdk'
+import { JSBI } from '@zhiyuan2007/uniscam-sdk'
 import { useMemo } from 'react'
 import { NEVER_RELOAD, useSingleCallResult } from '../state/multicall/hooks'
 import { useActiveWeb3React } from './index'

@@ -1,4 +1,4 @@
-import { ChainId, JSBI, Token, TokenAmount } from '@lychees/uniscam-sdk'
+import { ChainId, JSBI, Token, TokenAmount } from '@zhiyuan2007/uniscam-sdk'
 import { BigNumber } from 'ethers'
 import { ZERO_ADDRESS } from '../constants'
 import { computeUniCirculation } from './computeUniCirculation'

@@ -1,4 +1,4 @@
-import { Currency, ETHER, ChainId } from '@lychees/uniscam-sdk'
+import { Currency, ETHER, ChainId } from '@zhiyuan2007/uniscam-sdk'
 
 export const formatSymbol = (currency?: Currency | null, chainId: ChainId = ChainId.MAINNET) => {
   if (!currency) return ''

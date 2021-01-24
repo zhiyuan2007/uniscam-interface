@@ -1,6 +1,6 @@
 import { BigNumber } from '@ethersproject/bignumber'
 import { AddressZero } from '@ethersproject/constants'
-import { TokenAmount, Token, ChainId, Percent, JSBI } from '@lychees/uniscam-sdk'
+import { TokenAmount, Token, ChainId, Percent, JSBI } from '@zhiyuan2007/uniscam-sdk'
 
 import {
   getScanLink,

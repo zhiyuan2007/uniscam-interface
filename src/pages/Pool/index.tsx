@@ -1,6 +1,6 @@
 import React, { useContext, useMemo } from 'react'
 import styled, { ThemeContext } from 'styled-components'
-import { Pair } from '@lychees/uniscam-sdk'
+import { Pair } from '@zhiyuan2007/uniscam-sdk'
 import { Link } from 'react-router-dom'
 import { useTranslation } from 'react-i18next'
 import { SwapPoolTabs } from '../../components/NavigationTabs'

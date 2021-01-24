@@ -14,7 +14,7 @@ import {
   Trade,
   TradeType,
   WETH
-} from '@lychees/uniscam-sdk'
+} from '@zhiyuan2007/uniscam-sdk'
 import { useMemo } from 'react'
 import { useActiveWeb3React } from '../hooks'
 import { useAllTokens } from '../hooks/Tokens'
